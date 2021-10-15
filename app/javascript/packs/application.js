@@ -15,5 +15,4 @@ Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
 
-///aiuesss
 
